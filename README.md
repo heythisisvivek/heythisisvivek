@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/gif/CODE-A-YODA.gif" width="100"/>
 </div>
 <br />
 <div id="badges" align="center">
@@ -21,16 +21,16 @@
 
 <h1 align="center">
   Hello Folks
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/gif/Hey.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/gif/Astronaut.gif" width="600" height="300"/>
 </div>
 
 ## 👽 &nbsp; About Me :
 
-I Write Code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 127.0.0.1
+I Write Code <img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/gif/Coding%20Cat.gif" width="30"> from 127.0.0.1
 
 - 💻 I’m Working as a Software Engineer and Contributing to Various Technology Stack.
 - 👾 Exploring Astronomy, Atmospheric Science, and Geology.
@@ -40,19 +40,19 @@ I Write Code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 ## 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/postman.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/heythisisvivek/heythisisvivek/main/svg/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 
